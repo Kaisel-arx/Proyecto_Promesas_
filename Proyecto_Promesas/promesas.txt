@@ -1,0 +1,4 @@
+1 El_Arrepentido 50 100
+2 La_Amnesia_Total 100 200
+3 El_Busca_Perdon 150 300
+4 El_Inmortal 250 500
